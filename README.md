@@ -2,7 +2,7 @@
 
 Eleuther AI's projects are on the [board](https://github.com/EleutherAI/project-menu/projects/1). 
 
-These are for projects that Eleuther developers could work on. **Please do not file issues for questions about how to get GPT-Neo to work on huggingface**
+These are for projects that Eleuther developers could work on. **Please do not file issues for questions about how to get GPT-Neo to work on huggingface**. See the [Eleuther AI FAQ](https://www.eleuther.ai/faq/)
 
 Please [open an issue](https://github.com/EleutherAI/project-menu/issues/new?assignees=&labels=seed&template=project.md) if you have an idea for a project, no matter how vague. 
 
