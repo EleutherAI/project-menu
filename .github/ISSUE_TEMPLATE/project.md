@@ -25,3 +25,5 @@ _
 ## Timeline (optional)
 
 _ 
+
+Note: You should aim to eventually fill the `optional` categories of the issue template, but you don't have to fill them in order to file an issue / propose a project. 
