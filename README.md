@@ -10,7 +10,9 @@ A github based platform to encourage collaboration and form links between the on
 
 3. Also feel free to comment for any possible improvments in the existing design of experiments/ideas!
 
-4. Look through the closed ideas for the experiments with results. Another fun thing to try is to interpret the results given in the many open pull requests. (Comment your observations on the pull request)
+4. Look through the closed ideas for the experiments with results. Upvote the first comment of the prs you deem significant! 
+
+5. Another fun thing to try is to interpret the results given in the many open pull requests. (Comment your observations on the pull requests)
 
 ## For The Experimentalists
 
@@ -39,8 +41,6 @@ At this point a project may have its own repo with issues of its own, and is see
 ## Active
 
 There is an active team executing on this. Use the label `full` if there is no room for more people.
-
-# You should aim to eventually fill the `optional` categories of the issue template, but you don't have to fill them in order to file an issue / propose a project. 
 
 ## The tags/labels should be used like so: 
 
