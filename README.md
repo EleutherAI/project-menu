@@ -22,7 +22,7 @@ A github based platform to encourage collaboration and form links between the on
 
 **Note:** Use ```is:issue is:open sort:reactions-+1-desc```, to sort by the most popular/upvoted issues. Also, feel free to join our [discord](https://discord.gg/mSHDyKSCSX) and discuss over there too.
 
-**Please do not file issues for questions about how to get GPT-Neo to work on huggingface**. See the [Eleuther AI FAQ](https://www.eleuther.ai/faq/)
+**Please do not file issues for questions about how to get GPT-Neo to work on huggingface**. See the [EleutherAI FAQ](https://www.eleuther.ai/faq/)
 
 ### The column schema on the board is like so: 
 
