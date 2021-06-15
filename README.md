@@ -1,6 +1,15 @@
 # Project Menu
 
-A github based platform to encourage collaboration and form links between the one with ideas, and those with the time and resources to experiment. 
+A GitHub-based platform to encourage collaboration on research problems.
+
+## Looking for a project? Try checking out...
+
+- [![help](https://img.shields.io/github/labels/EleutherAI/project-menu/help%20wanted)](https://github.com/EleutherAI/project-menu/labels/help%20wanted): this project needs help!
+- [![newbies](https://img.shields.io/github/labels/EleutherAI/project-menu/newbies%20welcome)](https://github.com/EleutherAI/project-menu/labels/newbies%20welcome): this is a good project for people with limited AI/ML background. Typically, this involves data collection and processing or UI/UX work.
+- [![needs PM](https://img.shields.io/github/labels/EleutherAI/project-menu/Recruiting:%20PM)](https://github.com/EleutherAI/project-menu/labels/Recruiting:%20PM): this project needs someone to assist with coordination and organization of the project.
+- [![needs devs](https://img.shields.io/github/labels/EleutherAI/project-menu/Recruiting:%20ML%20Dev)](https://github.com/EleutherAI/project-menu/labels/Recruiting:%20ML%20Dev):  
+This project needs people with experience developing and mantaining ML systems.
+- [![needs devs](https://img.shields.io/github/labels/EleutherAI/project-menu/Recruiting:%20SWE)](https://github.com/EleutherAI/project-menu/labels/Recruiting:%20SWE):  This project needs people with experience developing and mantaining non-ML systems.
 
 ## For The Thinkers
 
@@ -26,24 +35,19 @@ A github based platform to encourage collaboration and form links between the on
 
 ### The column schema on the board is like so: 
 
-## Seed column
+#### Seed column
 
 This is where ideas get dumped, no matter how vague, when they're opened as issues
 
-## Scoped column
+#### Scoped column
 
 Once a project has a sense of what deliverables ought to be and how long it ought to take it'll get moved to the `scoped` column. Many projects at this point are seeking someone to take point and advance it to the next stage.
 
-## Shovel-ready
+#### Shovel-ready
 
 At this point a project may have its own repo with issues of its own, and is seeking people to take down those issues.
 
-## Active
+#### Active
 
 There is an active team executing on this. Use the label `full` if there is no room for more people.
 
-## The tags/labels should be used like so: 
-
-- `full`: does not need more teammembers
-- `needs PM`: needs project manager
-- `needs engineers`: needs engineers to do tasks
