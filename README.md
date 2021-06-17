@@ -8,9 +8,7 @@ Have a cool idea for a project? Open an Issue by choosing one of the following t
 
 ### Request for Critique
 
-Have some ideas you want feedback on? Pitch them to us as best you can and we'll help you iron out the 
-
-kinks.
+Have some ideas you want feedback on? Pitch them to us as best you can and we'll help you iron out the kinks.
 
 ### Request for Plot
 
