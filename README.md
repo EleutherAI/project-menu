@@ -6,6 +6,10 @@ A GitHub-based platform to encourage collaboration on research problems.
 
 Have a cool idea for a project? Open an Issue by choosing one of the following templates:
 
+### Request for Critique
+
+Have some ideas you want feedback on? Pitch them to us as best you can and we'll help you iron out the kinks.
+
 ### Request for Plot
 
 Got a cool idea for an experiment, but not sure where it will lead? Drop a request for plot by pitching an experiment and providing some context for how you'd like to analyze it. 
@@ -16,11 +20,11 @@ Have a research idea fully formed but need assistance executing it? Open a proje
 
 ## Get Involved
 
-Want to get involved? Here's some ideas for how.
+Want to get involved? Here's some ideas for how. If none of these strike your fancy, [come chat with us on Discord](https://discord.gg/CZW7s9KS4W).
 
 ### Answer a Request for Plot
 
-Implement the experiment described in one of the RFPs and post the plot on the corresponding issue.
+Implement the experiment described in one of the [badge goes here] and post the plot on the corresponding issue.
 
 ### Give a Critique
 
