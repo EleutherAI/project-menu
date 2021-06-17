@@ -4,7 +4,7 @@ A GitHub-based platform to encourage collaboration on research problems.
 
 ## Pitch Your Idea
 
-Have a cool idea for a project? Open an Issue by choosing one of the following templates:
+Have a cool idea for a project? Open an issue by choosing one of the following templates:
 
 ### Request for Critique
 
