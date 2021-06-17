@@ -8,7 +8,9 @@ Have a cool idea for a project? Open an Issue by choosing one of the following t
 
 ### Request for Critique
 
-Have some ideas you want feedback on? Pitch them to us as best you can and we'll help you iron out the kinks.
+Have some ideas you want feedback on? Pitch them to us as best you can and we'll help you iron out the 
+
+kinks.
 
 ### Request for Plot
 
@@ -22,13 +24,13 @@ Have a research idea fully formed but need assistance executing it? Open a proje
 
 Want to get involved? Here's some ideas for how. If none of these strike your fancy, [come chat with us on Discord](https://discord.gg/CZW7s9KS4W).
 
-### Answer a Request for Plot
-
-Implement the experiment described in one of the [badge goes here] and post the plot on the corresponding issue.
-
 ### Give a Critique
 
 There are currently [badge goes here]. Check one out, think about it for a day, and give feedback.
+
+### Answer a Request for Plot
+
+Implement the experiment described in one of the [badge goes here] and post the plot on the corresponding issue.
 
 ### Find Projects Matching Your Skills
 
