@@ -16,13 +16,17 @@ Have a research idea fully formed but need assistance executing it? Open a proje
 
 ## Get Involved
 
-Want to get involved? Here's some ideas
+Want to get involved? Here's some ideas for how.
 
-### Answer an RFP
+### Answer a Request for Plot
 
 Implement the experiment described in one of the RFPs and post the plot on the corresponding issue.
 
-### Placeholder
+### Give a Critique
+
+There are currently [badge goes here]. Check one out, think about it for a day, and give feedback.
+
+### Find Projects Matching Your Skills
 
 Still not sure where your skills fit in? Try checking out...
 
