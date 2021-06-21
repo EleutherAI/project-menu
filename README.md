@@ -20,7 +20,7 @@ A "request for plot," is a way of approaching collaborations on exploratory idea
 
 We have a tagging system to help connect people with projectd recruiting for their skills and expertise.
 
-[![newbies](https://img.shields.io/github/labels/EleutherAI/project-menu/Newbies%20Welcome?style=plastic)](https://github.com/EleutherAI/project-menu/labels/Newbies%20Welcome) this is a good project for people with limited AI/ML background. Typically, this involves data collection and processing or UI/UX work.
+[![newbies](https://img.shields.io/github/labels/EleutherAI/project-menu/Newbies%20Welcome?style=plastic)](https://github.com/EleutherAI/project-menu/labels/Newbies%20Welcome) this is a good project for people with a limited background looking to try something new.
 
 [![needs PM](https://img.shields.io/github/labels/EleutherAI/project-menu/Recruiting:%20PM?style=plastic)](https://github.com/EleutherAI/project-menu/labels/Recruiting:%20PM) this project needs someone to assist with coordination and organization of the project.
 
