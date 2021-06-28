@@ -43,3 +43,13 @@ Got a cool idea for an experiment, but not sure where it will lead? A "request f
 #### [Project Proposals](https://github.com/EleutherAI/project-menu/issues/new?assignees=&labels=&template=project.md)
 
 Have a research idea fully formed but need assistance executing it? Open a project proposal and tell us what kind of help you need.
+
+## Usage Tips
+
+### Upvote Good Contributions
+
+You can use the :thumbsup: reaction to vote for your favorite ideas! Upvote __the first comment__ of the ideas you like or experiments you wish you had the results for. To see a list of open issues sorted by upvotes, [click here](https://github.com/EleutherAI/project-menu/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
+
+### Tagging Posts
+
+Due to GitHub limitations, people who are not members of the EleutherAI organization on GitHub cannot modify tags on issues. If you would like your tags changed, please mention `@stellaathena` in the comments.
