@@ -12,9 +12,13 @@ Want to get involved? Here's some ideas for how. If none of these strike your fa
 There are many ways to get involved with new and ongoing projects. The easiest is to browse [open issues](https://github.com/EleutherAI/project-menu/issues).
 
 
+#### Replicate a Paper
+
+For many projects, the starting point is replicating an existing paper with minor modifications. Check out the list of requested replications [here](https://github.com/EleutherAI/project-menu/issues?q=is%3Aissue+is%3Aopen+Replication)
+
 #### Answer a Request for Plot
 
-A "request for plot," is a way of approaching collaborations on exploratory ideas with minimal friction. The idea is that when one has an idea for a cool experiment, they write up an explanation of what they are thinking and a description of the first plot they'd like to produce investigating the phenomenon. Then someone with more time / the necessary skills / etc. comes and follows the instructions to create the plot, reports back, and you two can discuss the results of the experiment and next steps.
+A "request for plot," is a way of approaching collaborations on exploratory ideas with minimal friction. The idea is that when one has an idea for a cool experiment, they write up an explanation of what they are thinking and a description of the first plot they'd like to produce investigating the phenomenon. Then someone with more time / the necessary skills / etc. comes and follows the instructions to create the plot, reports back, and you two can discuss the results of the experiment and next steps. Check out the list of requests for plots [here](https://github.com/EleutherAI/project-menu/issues?q=is%3Aissue+is%3Aopen+RFP)
 
 #### Find Projects that Match Your Skillset
 
