@@ -4,7 +4,7 @@ about: Request an implementation or replication of a paper or result
 title: "[Implementation] "
 labels: "Implemenation"
 assignees: ''
-label: "Recruiting: ML Dev", "Recruiting: SWE"
+label: "Recruiting: ML Dev"
 
 ---
 
