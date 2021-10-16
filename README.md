@@ -40,6 +40,10 @@ We have a tagging system to help connect people with projectd recruiting for the
 
 Have a cool idea for a project? Open an issue by choosing one of the following templates:
 
+#### [Propose an idea](https://github.com/EleutherAI/project-menu/issues/new?assignees=&labels=&template=idea.md&title=%5BIdea%5D)
+
+Have some thoughts, but are looking for feedback to make them more concrete? Sketch out your idea and stimulate discussion.
+
 #### [Request for Plot](https://github.com/EleutherAI/project-menu/issues/new?assignees=&labels=&template=request-for-plot.md&title=%5BRFP%5D+)
 
 Got a cool idea for an experiment, but not sure where it will lead? A "request for plot," is a way of approaching collaborations on exploratory ideas with minimal friction. The idea is that when you have an idea for a cool experiment, you write up an explanation of what you are thinking and a description of the first plot you'd like to produce investigating the phenomenon. Then someone with more time / the necessary skills / etc. comes and follows the instructions to create the plot, reports back, and you two can discuss the results of the experiment and next steps.
