@@ -12,9 +12,9 @@ Want to get involved? Here's some ideas for how. If none of these strike your fa
 There are many ways to get involved with new and ongoing projects. The easiest is to browse [open issues](https://github.com/EleutherAI/project-menu/issues).
 
 
-#### Replicate a Paper
+#### Implement a Paper
 
-For many projects, the starting point is replicating an existing paper with minor modifications. Check out the list of requested replications [here](https://github.com/EleutherAI/project-menu/issues?q=is%3Aissue+is%3Aopen+Replication).
+For many projects, the starting point is the implementation / replication of an existing paper with minor modifications. Check out the list of requested implementations [here](https://github.com/EleutherAI/project-menu/issues?q=is%3Aissue+is%3Aopen+Replication+OR+Implementation+).
 
 #### Answer a Request for Plot
 
