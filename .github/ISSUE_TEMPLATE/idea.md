@@ -1,8 +1,8 @@
 ---
-name: Request for Critique
-about: 'Request critique and further development of experiments for verification/rejection
+name: Idea
+about: 'Propose an idea for critique and further development of experiments for verification/rejection
   of conjectures/hypothesis. '
-title: "[RFC]"
+title: "[Idea]"
 labels: ''
 assignees: ''
 
