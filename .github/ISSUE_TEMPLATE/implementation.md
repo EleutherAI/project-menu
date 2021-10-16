@@ -1,9 +1,10 @@
 ---
-name: Paper Replication
-about: Request a replication of a paper or result
-title: "[Replication] "
-labels: 'Replication'
+name: Paper Implementation
+about: Request an implementation or replication of a paper or result
+title: "[Implementation] "
+labels: "Implemenation"
 assignees: ''
+label: "Recruiting: ML Dev", "Recruiting: SWE"
 
 ---
 
